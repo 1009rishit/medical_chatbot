@@ -1,6 +1,7 @@
 ctransformers==0.2.5
-sentence-transformers==2.2.2
+sentence-transformers-3.2.1
 pinecone-client==2.2.4
 langchain==0.0.225
 flask
 pypdf
+langchain_chroma
